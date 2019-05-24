@@ -38,5 +38,6 @@ In order to uninstall "native-client" from your system, please follow the below 
 In order to uninstall "native-client" from your system, please follow the below steps.
 
  1.Open the downloaded folder and then click on "uninstall.bat".
+ 
  2.Wait for the script to display the successful message.
  
