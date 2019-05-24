@@ -23,6 +23,7 @@ Download and extract the related ZIP file to your machine. If you have windows O
 Open the downloaded folder and then click on "install.bat". You can open "install.bat" with any text editor to see the inside in case you are interested.
 Wait for the screen to display the successful message.
 Now the add-on in your browser is fully connected to native applications (i.e. a media player) on your machine.
+
 In order to uninstall "native-client" from your system, please follow the below steps.
 
  1.Download and extract the related ZIP file to your machine. If you have windows OS, please download "win.zip", for Mac OS, use "mac.zip" and for Linux please use "linux.zip".
@@ -34,10 +35,8 @@ In order to uninstall "native-client" from your system, please follow the below 
  4.Now the add-on in your browser is fully connected to native applications (i.e. a media player) on your machine.
 
 
-Open the downloaded folder and then click on "uninstall.bat".
-Wait for the script to display the successful message.
+In order to uninstall "native-client" from your system, please follow the below steps.
 
  1.Open the downloaded folder and then click on "uninstall.bat".
- 
  2.Wait for the script to display the successful message.
  
