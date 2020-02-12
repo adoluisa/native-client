@@ -4,7 +4,7 @@ native-client for internet downloader
 
 Important Note:
 
-Native client patches provided in this GitHub repo work ONLY with the add-ons listed in http://www.returnmoneyonline.com/ website.
+Native client patches provided in this GitHub repo work ONLY with the add-ons listed in https://www.internetdownloadpro.com/ website.
 
 If you are directed to this repo from any other sources (website, add-on, plug-in, app, etc.) please proceed with caution when using 
 those products, as, they will NOT work with patches provided in this repo.
